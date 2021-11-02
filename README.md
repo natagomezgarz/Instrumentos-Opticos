@@ -1,7 +1,1 @@
-# Instrumentos-Opticos
-Con este repositorio podemos trabajar todo el semestre
-......Esto es un intento para ver si sí aprendí
-
-Hola esta modificación es de Camilo 
-
-Esta línea es nueva 
+# Instrumentos-OpticosCon este repositorio podemos trabajar todo el semestre......Esto es un intento para ver si sí aprendíHola esta modificación es de Camilo Esta línea es nueva nueva linea intento
